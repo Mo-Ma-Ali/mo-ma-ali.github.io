@@ -4,7 +4,7 @@ export default function Projects() {
   return (
     <section id="work" className="mx-auto max-w-content px-6 py-20 md:px-10">
       <div className="mb-10 flex items-baseline justify-between gap-6">
-        <h2 className="font-display text-3xl italic text-paper">Project</h2>
+        <h2 className="font-display text-3xl italic text-paper"> Project </h2>
         <a
           href="https://github.com/Mo-Ma-Ali?tab=repositories"
           target="_blank"
