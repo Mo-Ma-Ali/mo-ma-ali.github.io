@@ -15,6 +15,31 @@ export type Project = {
 // starting descriptions based on each repo's name and primary language.
 export const projects: Project[] = [
   {
+    slug: "ai-meeting-summarization",
+    title: "Meeting Summarization for Syrian Arabic",
+    field: "Natural Language Processing",
+    summary:
+      "An AI-powered meeting summarization system for Syrian Arabic conversational speech, combining topic segmentation, abstractive summarization, and decision extraction using a fine-tuned language model.",
+    detail:
+      "Built an end-to-end NLP system for summarizing Syrian Arabic meeting transcripts. The project involved generating and augmenting a custom dataset, fine-tuning Qwen2.5-3B-Instruct using LoRA/QLoRA, evaluating the approach against mT5, and deploying the resulting model locally through a FastAPI backend using GGUF and Ollama.",
+    stack: [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "LLM",
+      "Qwen2.5-3B",
+      "Transformers",
+      "LoRA",
+      "QLoRA",
+      "FastAPI",
+      "Ollama",
+      "GGUF",
+    ],
+    language: "Python",
+    href: "https://github.com/Mo-Ma-Ali/AI-meeting-summarization-",
+  },
+
+  {
     slug: "leukemia-detection",
     title: "White Blood Cell Classification & Leukemia Detection",
     field: "Medical imaging",
