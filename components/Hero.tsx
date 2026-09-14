@@ -82,7 +82,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="YOUR_LINKEDIN_URL"
+              href="https://www.linkedin.com/in/mohammed-ali-4b054a432"
               target="_blank"
               rel="noreferrer"
               className="rounded-full border border-hairline px-6 py-3 text-sm font-medium text-paper transition-colors hover:border-violet hover:text-violet"
