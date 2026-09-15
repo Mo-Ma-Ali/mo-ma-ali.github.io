@@ -8,19 +8,16 @@ export default function About() {
             I move between fields more than most engineers do on purpose. A
             medical imaging model needs a completely different intuition than a
             robotic controller, and a soft-body physics simulation shares almost
-            nothing with an Arabic NLP pipeline — except the underlying discipline
-            of specifying a problem precisely enough that code can solve it.
+            nothing with an Arabic NLP pipeline — except the underlying
+            discipline of specifying a problem precisely enough that code can
+            solve it.
           </p>
           <p>
             That range is deliberate. Working across computer vision, language
-            processing, robotics, and simulation keeps me from over-fitting to one
-            way of thinking about a system, and it means I usually have a useful
-            analogy on hand from an unrelated domain when something new gets stuck.
-          </p>
-          <p>
-            Replace this paragraph with a line about what you're looking for next —
-            research, an ML engineering role, freelance builds — so visitors know
-            what to reach out about.
+            processing, robotics, and simulation keeps me from over-fitting to
+            one way of thinking about a system, and it means I usually have a
+            useful analogy on hand from an unrelated domain when something new
+            gets stuck.
           </p>
         </div>
       </div>

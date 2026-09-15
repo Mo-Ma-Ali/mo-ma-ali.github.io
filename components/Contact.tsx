@@ -8,10 +8,10 @@ export default function Contact() {
         </h2>
         <div className="mt-8 flex flex-wrap gap-4">
           <a
-            href="mailto:ali.klay3500@example.com"
+            href="mailto:ali.klay3500@gmail.com"
             className="rounded-full bg-violet px-6 py-3 text-sm font-medium text-ink transition-colors hover:bg-paper"
           >
-            ali.klay3500@example.com
+            Email me
           </a>
           <a
             href="https://github.com/Mo-Ma-Ali"
